@@ -1,0 +1,245 @@
+{
+	"textures": [
+		{
+			"image": "cityscene.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 800,
+				"h": 1248
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "background.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 800,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 800,
+						"h": 600
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 800,
+						"h": 600
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "capguy/walk/0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 324
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 324
+					},
+					"frame": {
+						"x": 0,
+						"y": 600,
+						"w": 187,
+						"h": 324
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "capguy/walk/0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 324
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 324
+					},
+					"frame": {
+						"x": 187,
+						"y": 600,
+						"w": 187,
+						"h": 324
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "capguy/walk/0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 324
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 324
+					},
+					"frame": {
+						"x": 374,
+						"y": 600,
+						"w": 187,
+						"h": 324
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "capguy/walk/0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 324
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 324
+					},
+					"frame": {
+						"x": 561,
+						"y": 600,
+						"w": 187,
+						"h": 324
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "capguy/walk/0005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 324
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 324
+					},
+					"frame": {
+						"x": 0,
+						"y": 924,
+						"w": 187,
+						"h": 324
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "capguy/walk/0006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 324
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 324
+					},
+					"frame": {
+						"x": 187,
+						"y": 924,
+						"w": 187,
+						"h": 324
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "capguy/walk/0007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 324
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 324
+					},
+					"frame": {
+						"x": 374,
+						"y": 924,
+						"w": 187,
+						"h": 324
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "capguy/walk/0008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 324
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 324
+					},
+					"frame": {
+						"x": 561,
+						"y": 924,
+						"w": 187,
+						"h": 324
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1374585ebc5df4defd9dd0094834961b:6cc19705e7b39b96deecddd16df19941:292542e6853f316339413b9243f95b10$"
+	}
+}
